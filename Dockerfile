@@ -1,1 +1,1 @@
-FROM bytemark/smtp
+FROM boky/postfix
